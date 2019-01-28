@@ -1,0 +1,4 @@
+#JSGF V1.0;
+
+grammar mymenu;
+public <item> = good morning | hello | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | one | two | three | four | five | six | seven | eight | nine | zero | hydrogen | helium | lithium | beryllium | boron | carbon | nitrogen | oxygen | fluorine | neon | sodium | magnesium | aluminium | silicon | phosphorus | sulfur | chlorine | argon | potassium | calcium | titanium | vanadium | chromium | manganese | iron | cobalt | nickel | copper | zinc | gallium |  arsenic | selenium | bromine | krypton | strontium | yttrium | zirconium | niobium | molybdenum | rhodium | palladium | silver | indium | tin | tellurium | iodine | xenon | barium | lanthanum | mercury | thallium | lead | bismuth | polonium | uranium | clear;
